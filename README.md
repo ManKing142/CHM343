@@ -1,7 +1,1 @@
-# CHM343
-LAB
-Argon Isotope Number, Length(m)
-1, 42202.105
-2, 42438.165
-3, 42202.105
-4, 42652.852
+file:///C:/Users/manso/Downloads/TubeLength_ArgonIsotope.html
